@@ -32,7 +32,7 @@ screenshot.png
 
 ### Links
 
-- Live Site URL: [Add live site URL here]( https://4002-nonye.github.io/Huddle-landing-page-with-javascript/)
+- Live Site URL: [live site URL]( https://4002-nonye.github.io/Huddle-landing-page-with-javascript/)
 
 ## My process
 
